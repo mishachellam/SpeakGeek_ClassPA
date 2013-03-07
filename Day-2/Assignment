@@ -1,0 +1,30 @@
+## Day 2 Assignment
+
+Your assignment this week is to meet with a Front End Engineer (or equivalent) at your company. Like last week, preferably at lunch or during non-peak hours. Before the meeting you should:
+
+* Use the "Inspect Element" tool in Chrome to review your company's HTML. Here are a few things you could look for:
+  * In the <head> section, do you recognize any tools (i.e. Google Analytics, Wordpress, Bootstrap, JQuery or Facebook)?
+  * In the <body> section, do the id and class names make sense to you?
+
+* Use the "Inspect Element" tool in Chrome to figure out which fonts and font colors your company uses. To find those items:
+  * In Chrome, highlight a piece of text then right click on the highlighted area and hit "Inspect Element."
+  * In the upper right hand corner of the Elements panel you'll see a box called "Computed Style" -- click on it and look for the CSS properties "color" and "font-family."
+
+* Remove the CSS from your company's website and look at the structure of the data. Remember, to remove the CSS you should:
+  * In Chrome, right click on the page and hit "Inspect Element."
+  * In the <head> section, look for anything that starts with <link rel="stylesheet" type="text/css"…>.
+  * Select and delete each of those sections.
+
+At the meeting you should:
+
+* Ask about Markdown. Does the company use it? Is there any value in you learning it?
+* Ask the engineer how you should submit issues if you ever notice a front-end inconsistency. Don't forget about that whole maker vs manager thing.
+* Ask any other HTML/CSS related questions you might have. Specifically, you might want to ask how that engineer learned to markup HTML and CSS.
+
+Before you get to the next class, go to Github and create a Gist that includes:
+
+* Your notes from the Front End Engineer meeting.
+* The font and font colors your company uses.
+* Any outstanding questions you have about the basics of HTML and CSS.
+
+We will discuss your results and answer any remaining questions at the beginning of class on Wednesday.
